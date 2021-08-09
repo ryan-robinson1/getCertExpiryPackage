@@ -5,7 +5,7 @@
 
 */
 
-package main
+package getCertExpiryPackage
 
 import (
 	"crypto/tls"
